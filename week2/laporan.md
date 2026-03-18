@@ -22,7 +22,7 @@ Gambar:
 ![Gambar1_full](./gambar/gambar1_full.png)
 <br/>(Ketemu)
 ![Gambar1_found](./gambar/gambar1_found.png)
-<br/>(Data)
+<br/>(Data)<br/>
 ![Gambar1_data](./gambar/gambar1_data.png)
 <br/>
 
@@ -123,7 +123,7 @@ Penjelasan:
 
 Tambahan:
 <br/>
-![Gambar5_exposed](image.png)
+![Gambar5_exposed](./gambar/gambar5_exposed.png)
 <br/>
 tentunya memasukkan credential saat mengakses HTTP tidak baik karena hanya di encode base64 (Bukan enkripsi!) jadi tidak aman dan username dan password terekspos
 

@@ -71,7 +71,7 @@ Gambar:
 <br/>
 (full view)
 ![Gambar3_full](./gambar/gambar3_full.png)
-<br/>(Data)
+<br/>(Data)<br/>
 ![Gambar3_full](./gambar/gambar3_data.png)
 
 Penjelasan:

@@ -21,7 +21,7 @@ melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-n
 1. [103.231.202.210](https://indonesia.go.id) Indonesia officical web<br/>
 ![asiaWeb](./gambar/bagianSatuAsia.png)
 2. Server dns otoritatif Technical University of Munich
-    -   dns1.lrz.de
+    -   dns1.lrz.de<br/>
 ![EUWeb](./gambar/bagianSatuEU.png)
 3. Tidak berhasil <br/>![refused](./gambar/bagianSatuRefused.png) <br/>Sepertinya server dns pada kampus yang ingin saya coba  sebelumnya menolak untuk memberikan informasi terkait ip yahoo.com hal ini diindikasikan oleh <code>Query Refused</code>.<br/>Sebagai salah satu contoh yang berhasil saya memberikan dns kampus cambridge<br/>
 ![Sukses](./gambar/bagianSatuSuccess.png)<br/>
@@ -97,6 +97,7 @@ dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
 1. Port pada request adalah 53 dan source dari response adalan 53<br/>
 ![BagianTigaNomorSatu](./gambar/bagianTigaNomor1.png)
 <br/>
+
 ![BagianTigaNomorSatus](./gambar/bagianTigaNomor1s.png)
 
 2. Tidak, ke 8.8.8.8 
@@ -107,6 +108,7 @@ dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
     - 2404:c0:3001:18a::255e
     - 2404:c0:3001:192::255e
 <br/>
+
 ![4answer](./gambar/info.png)
 
 ## Bagian 4:
@@ -118,7 +120,7 @@ tersebut mengandung ”jawaban” atau ”answers”?
 3. Periksa pesan balasan DNS. Apa nama server MIT yang diberikan oleh pesan balasan?
 Apakah pesan balasan ini juga memberikan alamat IP untuk server MIT tersebut?
 ### Jawaban
-1. Tidak, ke 8.8.8.8 
+1. Tidak, ke 8.8.8.8<br/>
 ![GoogleToMITnih](./gambar/bagianEmpatNomor1.png)
 2. Tidak ada 
 ![nomor2](./gambar/bagianEmpatNomor2.png)

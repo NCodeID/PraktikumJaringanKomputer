@@ -18,12 +18,12 @@ server tersebut?
 melalui salah satu server yang didapatkan di pertanyaan nomor 2. Apa alamat IP-nya?
 
 ### Jawaban:
-1. [103.231.202.210](https://indonesia.go.id) Indonesia officical web
+1. [103.231.202.210](https://indonesia.go.id) Indonesia officical web<br/>
 ![asiaWeb](./gambar/bagianSatuAsia.png)
 2. Server dns otoritatif Technical University of Munich
     -   dns1.lrz.de
 ![EUWeb](./gambar/bagianSatuEU.png)
-3. Tidak berhasil <br/>![refused](./gambar/bagianSatuRefused.png) Sepertinya server dns pada kampus yang ingin saya coba  sebelumnya menolak untuk memberikan informasi terkait ip yahoo.com hal ini diindikasikan oleh <code>Query Refused</code>.<br/>Sebagai salah satu contoh yang berhasil saya memberikan dns kampus cambridge<br/>
+3. Tidak berhasil <br/>![refused](./gambar/bagianSatuRefused.png) <br/>Sepertinya server dns pada kampus yang ingin saya coba  sebelumnya menolak untuk memberikan informasi terkait ip yahoo.com hal ini diindikasikan oleh <code>Query Refused</code>.<br/>Sebagai salah satu contoh yang berhasil saya memberikan dns kampus cambridge<br/>
 ![Sukses](./gambar/bagianSatuSuccess.png)<br/>
 Jawaban : **13.248.158.7 & 76.223.84.192**
 
@@ -55,14 +55,18 @@ Terdapat informasi Protocol : UDP (17)
     - Source Port : 65068 (port acak dari windows)
     - Response Port : 53 (balasan sama ke port 23)
 <br/>
+
 ![Port](./gambar/bagianDuaPort.png)
 <br/>
+
 ![Port2](./gambar/bagianDuaPort2.png)
 
 3. Ya, alamat IP tujuan pada paket DNS sama dengan alamat IP server DNS lokal pada pc saya.
 <br/>
+
 ![Nomor3](./gambar/bagianDuaNomor3.png)
 <br/>
+
 ![IPConfig](./gambar/bagianDuaIPConfig.png)
 
 4. Type dari permintaan adalah A dan tidak memiliki "jawaban"<br/>
@@ -70,6 +74,7 @@ Terdapat informasi Protocol : UDP (17)
 
 5. ada 2 yakni 104.16.45.99 dan 104.16.44.99
 <br/>
+
 ![Nomor5](./gambar/bagianDuaNomor5.png)
 
 6. Sesuai.<br/>
@@ -139,7 +144,7 @@ dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut?
 ### Jawaban
 1. ke 18.0.72.3 dan 18.0.72.3 bukan merupakan IP Server DNS Lokal <br/>
 ![bagianLimaNomor1](./gambar/bagianLimaNomor1.png)
-2. A dan AAAA (Tidak mengandung "jawaban")
+2. A dan AAAA (Tidak mengandung "jawaban") <br/>
 ![bagianLimaNomor2](./gambar/bagianLimaNomor2.png)
 3. ada 4 jawaban terdiri dari A dan AAAA:
     - 104.21.74.8 dan 172.67.152.120
